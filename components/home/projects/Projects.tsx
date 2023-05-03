@@ -41,7 +41,7 @@ const projects = [
           {":)"}
         </p>
         <p>
-          I've introduced a quiz app option for those who desire to get quizzed.
+          I've introduced a quiz option for those who desire to get quizzed.
           Multiple choice and name it questions are the two types of questions.
           In the multiple choice, I've included an algorithm that generates six
           different types of questions based on the user's preferred continent.
@@ -54,39 +54,41 @@ const projects = [
     ),
   },
   {
-    title: "The Canvas Club",
-    imgSrc: "project-imgs/example-project.jpg",
+    title: "The Bank App",
+    imgSrc: "project-imgs/bank.webp",
     code: "https://www.github.com",
     projectLink: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-    tech: ["Node", "Express", "Postgres", "Kafka", "Redis"],
+    tech: ["React", "tailwind", "Node", "Express"],
     description:
-      "A social community for painters to connect with others in their community. I handle everything backend (50K monthly active users).",
+      " The Bank App is a an app which demonstrate banking functionality for customers to Send , Withdraw , Transfer and Loan dummy money for fun .",
     modalContent: (
       <>
         <p>
-          The Canvas Club is a social community for painters to connect with
-          others in their community.
+          The Bank App is a an app which demonstrate banking functionality for
+          customers to Send , Withdraw , Transfer and Loan dummy money for fun .
         </p>
         <p>
-          I work primarily on the backend, a collection of Node & Express
-          microservices. Data is stored primarily in Postgres & cached in Redis.
+          I work primarily on the frontend, the only thing the backend is for is
+          for demonstrating authorization and authentication. with that being
+          said the app is front end heavy equips with React ContextApi and
+          Reducers to handle the global state
         </p>
         <p>
-          The team in total consists of 5 developers. This is a passion project
-          for all of us.
+          I hope you like it the link to the application will be down below
+          {":)"}
         </p>
         <p>
           Because this isn&apos;t real, here&apos;s some gibberish to fill space{" "}
           {":)"}
         </p>
         <p>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aspernatur
-          quia officia odio nulla consectetur aperiam ad tempora magni magnam
-          nesciunt.
+          It has features such as displaying a welcome text, total balance,
+          account number, account type, and withdrawal and deposit activity
+          history.
         </p>
         <p>
-          Fuga id sapiente facere ipsa eius exercitationem officiis deleniti,
-          rerum dolorum. Deserunt soluta modi culpa animi.
+          I'd love for you to test out the Bank app and let me know what you
+          think.
         </p>
       </>
     ),
