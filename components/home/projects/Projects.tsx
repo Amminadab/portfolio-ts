@@ -96,8 +96,8 @@ const projects = [
   {
     title: "Module Redesign",
     imgSrc: "project-imgs/module.webp",
-    code: "https://www.github.com",
-    projectLink: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    code: "https://github.com/Amminadab/module",
+    projectLink: "https://module-redesign-by-amminadab.onrender.com",
     tech: ["HTML", "CSS", "MUI", "Figma"],
     description:
       "I created these websites for the main reason that when I was hunting for a figma plug in, I discovered their website when I entered their website. inspired by that i redesign there hole front page website.",
@@ -124,29 +124,34 @@ const projects = [
     ),
   },
   {
-    title: "Paint Reference 4",
-    imgSrc: "project-imgs/example-project.jpg",
-    code: "https://www.github.com",
-    projectLink: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    title: "Booker",
+    imgSrc: "project-imgs/booker.webp",
+    code: "https://github.com/Amminadab/bookipi",
+    projectLink: "https://booker-by-amminadab.onrender.com",
     tech: ["Python", "FastAPI", "SQLAlchemy"],
     description:
-      "I couldn't think of another paint reference app, so here we are. I think you get the idea, right? Use your imagination 🌈",
+      "Booker is the easiest invoice app for small businesses. Send invoices to your customers in under a minute and receive payments quicker. ",
     modalContent: (
       <>
-        <p>Alright, you got me. I&apos;m all out of paint references.</p>
         <p>
-          Point is, use this space to explain a bit further WHAT this project
-          is, as well as what YOU contributed to it.
-        </p>
-        <p>You get the idea. Now more lorem {":)"}</p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aspernatur
-          quia officia odio nulla consectetur aperiam ad tempora magni magnam
-          nesciunt.
+          Booker is the easiest invoice app for small businesses. Send invoices
+          to your customers in under a minute and receive payments quicker.{" "}
         </p>
         <p>
-          Fuga id sapiente facere ipsa eius exercitationem officiis deleniti,
-          rerum dolorum. Deserunt soluta modi culpa animi.
+          I used the following design process: first, I gathered all of the
+          requirements for me to be able to design these, then I began by
+          drawing my ideas as a lo-fi design, then I crafted what I drew in to a
+          lo-fi digital design, and finally, once I was sure the design was
+          usable, I shipped the Figma hi-fi design and created the website.
+        </p>
+        <p>
+          I developed these websites because when I was looking for a booking
+          app in, I stumbled across their website when I entered their website.
+          I was inspired by that and redesigned their entire front page website.
+        </p>
+        <p>
+          This is a fictional website that has no use other than to showcase my
+          creative ideas and design skills.
         </p>
       </>
     ),
