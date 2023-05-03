@@ -9,20 +9,20 @@ export const Hero = () => {
       <div className={styles.copyWrapper}>
         <Reveal>
           <h1 className={styles.title}>
-            Hey, I&apos;m Bob<span>.</span>
+            Hey, I&apos;m Amminadab<span>.</span>
           </h1>
         </Reveal>
         <Reveal>
           <h2 className={styles.subTitle}>
-            I&apos;m a <span>Full Stack Developer</span>
+            I&apos;m a <span>Front-End Developer</span>
           </h2>
         </Reveal>
         <Reveal>
           <p className={styles.aboutCopy}>
-            I&apos;ve spent the last 5 years building and scaling software for
-            some pretty cool companies. I also teach people to paint online
-            (incase you&apos;ve got an empty canvas layin&apos; around 🎨).
-            Let&apos;s connect!
+            I&apos;ve spent the last year and a half building websites for some
+            pretty cool companies. I&apos;m an certified web designer and
+            developer. Got two professional certificate&apos;s which are Google
+            ux design and Meta Front-end. Let&apos;s connect!
           </p>
         </Reveal>
         <Reveal>
