@@ -56,9 +56,9 @@ const projects = [
   {
     title: "The Bank App",
     imgSrc: "project-imgs/bank.webp",
-    code: "https://www.github.com",
-    projectLink: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-    tech: ["React", "tailwind", "Node", "Express"],
+    code: "https://github.com/Amminadab/banking-app",
+    projectLink: "https://thebankapp.onrender.com/",
+    tech: ["React", "Tailwind", "Context", "Express"],
     description:
       " The Bank App is a an app which demonstrate banking functionality for customers to Send , Withdraw , Transfer and Loan dummy money for fun .",
     modalContent: (
@@ -94,32 +94,31 @@ const projects = [
     ),
   },
   {
-    title: "BrushWire",
-    imgSrc: "project-imgs/example-project.jpg",
+    title: "Module Redesign",
+    imgSrc: "project-imgs/module.webp",
     code: "https://www.github.com",
     projectLink: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-    tech: ["NextJS", "Java", "Spring", "AWS Aurora"],
+    tech: ["HTML", "CSS", "MUI", "Figma"],
     description:
-      "Think Zapier but for paint. Built with a team of four college friends and scaled to > 1 billion requests per day. This was a fun one.",
+      "I created these websites for the main reason that when I was hunting for a figma plug in, I discovered their website when I entered their website. inspired by that i redesign there hole front page website.",
     modalContent: (
       <>
+        <p></p>
         <p>
-          Brush wire is essentially Zapier but for paint. Built with a team of
-          four college friends and scaled to {">"} 1 billion requests per day.
-          This was a fun one.
+          I created these websites for the main reason that when I was hunting
+          for a figma plug in, I discovered their website when I entered their
+          website. inspired by that i redesign there hole front page website.
         </p>
         <p>
-          Since &quot;Zapier for paint&quot; doesn&apos;t mean anything, be
-          creative {":)"}
+          I used the following design process: first, I gathered all of the
+          requirements for me to be able to design these, then I began by
+          drawing my ideas as a lo-fi design, then I crafted what I drew in to a
+          lo-fi digital design, and finally, once I was sure the design was
+          usable, I shipped the Figma hi-fi design and created the website.
         </p>
         <p>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aspernatur
-          quia officia odio nulla consectetur aperiam ad tempora magni magnam
-          nesciunt.
-        </p>
-        <p>
-          Fuga id sapiente facere ipsa eius exercitationem officiis deleniti,
-          rerum dolorum. Deserunt soluta modi culpa animi.
+          This is a fictional website that has no use other than to showcase my
+          creative ideas and design skills.
         </p>
       </>
     ),
