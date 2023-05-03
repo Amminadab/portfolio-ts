@@ -18,36 +18,37 @@ export const Projects = () => {
 
 const projects = [
   {
-    title: "Paint.app",
-    imgSrc: "project-imgs/example-project.jpg",
-    code: "https://www.github.com",
-    projectLink: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-    tech: ["Flutter", "MUI", "Python", "FastAPI"],
+    title: "Country Flags",
+    imgSrc: "project-imgs/country.webp",
+    code: "https://github.com/Amminadab/countries",
+    projectLink: "https://countryflag.onrender.com/",
+    tech: ["React", "MUI", "Redux", "RustApi"],
     description:
-      "A real-time coaching app for students learning to paint. This app is my baby, designed and built on my own.",
+      "A real-time learning website for students learning about countries flag. This app is my baby, designed and built on my own.",
     modalContent: (
       <>
         <p>
-          Pain.app is a real-time coaching app for students learning to paint.
-          This app is my baby, designed and built on my own.
+          Country Flags is a real-time website for students learning about
+          countries flag. This app is my baby, designed and built on my own.
         </p>
         <p>
-          The tech stack is based on top of Flutter for the mobile app,
-          connected to a Python & FastAPI backend, with data stored in Postgres,
-          deployed on Heroku.
+          The tech stack is based on top of React for the front-end, tailwind
+          used for the UI,Redux for Global state management, used & RustApi
+          backend and deployed on Render.
         </p>
         <p>
-          Because this isn&apos;t real, here&apos;s some gibberish to fill space{" "}
+          I hope you like it the link to the application will be down below
           {":)"}
         </p>
         <p>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aspernatur
-          quia officia odio nulla consectetur aperiam ad tempora magni magnam
-          nesciunt.
+          I've introduced a quiz app option for those who desire to get quizzed.
+          Multiple choice and name it questions are the two types of questions.
+          In the multiple choice, I've included an algorithm that generates six
+          different types of questions based on the user's preferred continent.
         </p>
         <p>
-          Fuga id sapiente facere ipsa eius exercitationem officiis deleniti,
-          rerum dolorum. Deserunt soluta modi culpa animi.
+          I'd love for you to test out the quiz app and let me know what you
+          think.
         </p>
       </>
     ),
