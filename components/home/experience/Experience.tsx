@@ -31,13 +31,13 @@ const experience = [
     ],
   },
   {
-    title: "Facebook",
-    position: "Software Engineer",
-    time: "2020 - 2022",
-    location: "San Francisco",
+    title: "Lssya",
+    position: "Front-End Developer",
+    time: "2023 - Present",
+    location: "Remote",
     description:
-      "Senior Full Stack Engineer for Facebook Marketplace. Created a service from scratch to handle new listings. Also played some ping pong. It was fun.",
-    tech: ["React", "Node", "PHP", "GraphQL", "Presto", "Cassandra"],
+      "worked as a Junior Front-End Developer .Created a service from scratch to handle new listings. Also played with co-workers online games. It was fun.",
+    tech: ["React", "VueJS", "TailwindCss", "GraphQL", "RestApi"],
   },
   {
     title: "Amazon",
