@@ -40,21 +40,12 @@ const experience = [
     tech: ["React", "VueJS", "TailwindCss", "GraphQL", "RestApi"],
   },
   {
-    title: "Amazon",
-    position: "Software Engineer",
-    time: "2016 - 2020",
-    location: "Seattle",
+    title: "City Government of Addis Ababa Education Bureau",
+    position: "Intern Software Engineer",
+    time: "2021 - 2022",
+    location: "Addis Ababa",
     description:
-      "Data Engineer for store front. Built data pipelines with Spark and Airflow. Saw Bezos one time. He said he liked my paintings. I said I liked his hair.",
-    tech: [
-      "Java",
-      "Python",
-      "S3",
-      "RDS",
-      "Redshift",
-      "PySpark",
-      "HDFS",
-      "Apache Airflow",
-    ],
+      "worked as a fullstack developer. wrote code to help frontend developers as well as backend developers. Built a website to enrole interns online .which make more sense because it make s itt easy for empolyee and intern students  ",
+    tech: ["PHP", "HTML", "CSS", "JavaScript", "XAMPP"],
   },
 ];
