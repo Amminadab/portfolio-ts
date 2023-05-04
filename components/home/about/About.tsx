@@ -22,15 +22,15 @@ export const About = () => {
           </Reveal>
           <Reveal>
             <p className={styles.aboutText}>
-              I currently work for Avi ICT solution's as front-end developer. I
-              also toss in my ¢2 with the design systems teams from time to time
-              (once an artist, always an artist, amirite?).
+              I currently work for Avi ICT solution&apos;s as front-end
+              developer. I also toss in my ¢2 with the design systems teams from
+              time to time (once an artist, always an artist, amirite?).
             </p>
           </Reveal>
           <Reveal>
             <p className={styles.aboutText}>
               Outside of work, I still love to paint. Any given Sunday
-              you&apos;ll find me enjoying my time with friend's or at home
+              you&apos;ll find me enjoying my time with friend&apos;s or at home
               petting my dogs. I also have two adorable dogs that i take care
               of.
             </p>
