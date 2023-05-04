@@ -14,21 +14,20 @@ export const Experience = () => {
 
 const experience = [
   {
-    title: "Google",
+    title: "Avi ICT Solutions",
     position: "Software Engineer",
-    time: "2022 - Present",
-    location: "Atlanta",
+    time: "2023 - Present",
+    location: "Addis Ababa",
     description:
-      "I help build and scale Google Photos. Increased throughput of our primary services by 70%. Migrated backend service from Java to Go. Also helped make it look prettier.",
+      "I help build and scale frontend applications. help them generate bueatyfull UI. Made the application secure by utilizing OAuth and JSON Web Token (JWT).",
     tech: [
-      "Angular",
-      "Python",
-      "GCP",
+      "React",
+      "NextJS",
+      "TailwindCSS",
       "Git",
       "GitHub",
-      "Java",
-      "Golang",
-      "K8s",
+      "MaterialUI",
+      "RestAPI",
     ],
   },
   {
