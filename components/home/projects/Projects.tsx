@@ -41,14 +41,15 @@ const projects = [
           {":)"}
         </p>
         <p>
-          I've introduced a quiz option for those who desire to get quizzed.
-          Multiple choice and name it questions are the two types of questions.
-          In the multiple choice, I've included an algorithm that generates six
-          different types of questions based on the user's preferred continent.
+          I&apos;ve introduced a quiz option for those who desire to get
+          quizzed. Multiple choice and name it questions are the two types of
+          questions. In the multiple choice, I&apos;ve included an algorithm
+          that generates six different types of questions based on the
+          user&apos;s preferred continent.
         </p>
         <p>
-          I'd love for you to test out the quiz app and let me know what you
-          think.
+          I&apos;d love for you to test out the quiz app and let me know what
+          you think.
         </p>
       </>
     ),
@@ -87,8 +88,8 @@ const projects = [
           history.
         </p>
         <p>
-          I'd love for you to test out the Bank app and let me know what you
-          think.
+          I&apos;d love for you to test out the Bank app and let me know what
+          you think.
         </p>
       </>
     ),
